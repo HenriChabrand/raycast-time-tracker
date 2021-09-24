@@ -5,7 +5,6 @@
 
 
 # Install Script Commands from this repository
---- 
 To install Time Tracker commands, follow these steps:
 1. Download this repository
 2. Move the 3 command script in your Raycast command script directory
